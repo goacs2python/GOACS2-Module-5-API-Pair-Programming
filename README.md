@@ -1,6 +1,6 @@
-# Module 5 API Individual Problem Set
+# Module 5 API Pair Programming
 
-Please complete one problem from the Module 5 API Problem Set. You will complete an additional problem with the help of a partner.
+Please complete one problem from the Module 5 API Problem Set with a partner. You will complete an additional problem individually.
 
 ## SPECIAL INSTRUCTIONS
 
